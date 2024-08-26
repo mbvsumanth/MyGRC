@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MYGRC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f7ae1b2630a3c0d84709d6f19699f68e400cd54")]
 [assembly: System.Reflection.AssemblyProductAttribute("MYGRC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MYGRC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
